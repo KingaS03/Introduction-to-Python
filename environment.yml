@@ -1,0 +1,17 @@
+name: intro-python-course-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - rise
+  - IPython.display
+  - keyword
+  - this
+  - itertools
+  - re
+  - math
+  - scipy
+  - sklearn.datasets
+  - os

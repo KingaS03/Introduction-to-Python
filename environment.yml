@@ -6,12 +6,6 @@ dependencies:
   - matplotlib
   - pandas
   - rise
-  - IPython.display
-  - keyword
-  - this
-  - itertools
-  - re
-  - math
+  - ipython
   - scipy
-  - sklearn.datasets
-  - os
+  - sklearn

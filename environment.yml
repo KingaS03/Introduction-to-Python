@@ -8,4 +8,4 @@ dependencies:
   - rise
   - ipython
   - scipy
-  - sklearn
+  - scikit-learn

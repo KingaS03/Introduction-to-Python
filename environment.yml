@@ -4,7 +4,6 @@ channels:
 dependencies:
   - numpy
   - matplotlib
-  - math
   - pandas
   - rise
   - ipython

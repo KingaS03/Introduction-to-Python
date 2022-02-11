@@ -4,7 +4,7 @@
 
 # Introduction to Python Course
  
-This course is based on the book below and the corresponding Jupyter notebooks of *Jake VanderPlas*. The course in its original format can be found [on Github](https://github.com/jakevdp/WhirlwindTourOfPython). As reading from and writing to a file is belonging also to the basics, Kinga Sipos created the complementray Chapter *14-File Input and Output*. Chapter *18-Plotting* was also added to provide a first experience with plotting in Python. Some other little details were created and/or changed. Finally extra exercises were added in order to enhance the interactivity of the course.
+This course is based on the book below and the corresponding Jupyter notebooks of *Jake VanderPlas*. The course in its original format can be found [on Github](https://github.com/jakevdp/WhirlwindTourOfPython). Kinga Sipos uses this material together with a general introduction into programming, the slides of which can be found in the IntroductorySlides folder. As reading from and writing to a file is belonging also to the basics, Kinga Sipos created the complementray Chapter *14-File Input and Output*. Some other little details were created and/or changed. Finally extra exercises were added in order to enhance the interactivity of the course. Chapter *18-Plotting* was also added to provide a first experience with plotting in Python. This chapter is still under construction.  
 
 <img src="Course/fig/cover-large.gif">
 

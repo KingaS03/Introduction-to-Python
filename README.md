@@ -8,7 +8,7 @@ This course is based on the books below and the corresponding Jupyter notebooks 
 
 |First book|Second book|
 |:-:|:-:|
-|<img src="fig/cover-large.gif" width="150">|<img src="fig/PDSH-cover.png" width="150">|
+|<img src="Course/fig/cover-large.gif" width="150">|<img src="Course/fig/PDSH-cover.png" width="150">|
 
 *A Whirlwind Tour of Python* is a fast-paced introduction to essential
 components of the Python language for researchers and developers.
